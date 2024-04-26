@@ -1,0 +1,14 @@
+{
+  "name": "discord-joiner",
+  "module": "src/index.ts",
+  "type": "module",
+  "dependencies": {
+    "2captcha": "^3.0.5-2",
+    "discord.js-selfbot-v13": "git+https://github.com/aiko-chan-ai/discord.js-selfbot-v13",
+    "proxy-agent": "^6.4.0"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.0",
+    "typescript": "^5.4.5"
+  }
+}
